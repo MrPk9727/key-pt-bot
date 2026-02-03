@@ -1,0 +1,38 @@
+{
+  "bot_access_config": {
+    "total_codes": 30,
+    "last_updated": "2026-02-03",
+    "access_codes": [
+      { "id": 1, "code": "ALPHA-9283-XJ", "status": "active" },
+      { "id": 2, "code": "BETA-4410-LP", "status": "active" },
+      { "id": 3, "code": "GAMA-1092-ZQ", "status": "active" },
+      { "id": 4, "code": "DELTA-5582-MK", "status": "active" },
+      { "id": 5, "code": "EPSI-3391-RV", "status": "active" },
+      { "id": 6, "code": "ZETA-7721-BN", "status": "active" },
+      { "id": 7, "code": "ETAX-8840-PL", "status": "active" },
+      { "id": 8, "code": "THET-2239-OS", "status": "active" },
+      { "id": 9, "code": "IOTA-6617-WD", "status": "active" },
+      { "id": 10, "code": "KAPP-4405-EF", "status": "active" },
+      { "id": 11, "code": "LAMB-3312-GH", "status": "active" },
+      { "id": 12, "code": "MUON-9984-TY", "status": "active" },
+      { "id": 13, "code": "NUON-5561-UI", "status": "active" },
+      { "id": 14, "code": "XIXX-1120-OP", "status": "active" },
+      { "id": 15, "code": "OMIC-7734-QA", "status": "active" },
+      { "id": 16, "code": "PIXX-8849-WS", "status": "active" },
+      { "id": 17, "code": "RHOX-2290-ED", "status": "active" },
+      { "id": 18, "code": "SIGM-4431-RF", "status": "active" },
+      { "id": 19, "code": "TAUX-6672-TG", "status": "active" },
+      { "id": 20, "code": "UPSI-9910-YH", "status": "active" },
+      { "id": 21, "code": "PHIL-5523-UJ", "status": "active" },
+      { "id": 22, "code": "CHIX-1187-IK", "status": "active" },
+      { "id": 23, "code": "PSIX-3345-OL", "status": "active" },
+      { "id": 24, "code": "OMEG-7762-PM", "status": "active" },
+      { "id": 25, "code": "VECT-8890-ZA", "status": "active" },
+      { "id": 26, "code": "FLUX-2214-XS", "status": "active" },
+      { "id": 27, "code": "NOVA-4456-CD", "status": "active" },
+      { "id": 28, "code": "VOID-6609-VF", "status": "active" },
+      { "id": 29, "code": "CORE-9921-BG", "status": "active" },
+      { "id": 30, "code": "LINK-5538-NH", "status": "active" }
+    ]
+  }
+}
